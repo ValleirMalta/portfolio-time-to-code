@@ -1,0 +1,17 @@
+.page {
+    display: flex;
+    justify-content: center;
+    min-height: 100svh;
+    font-family: "InterRegular", sans-serif;
+    padding: 10px 20px 100px;
+    background-color: hsl(240deg 13.04% 4.51%);
+    color: #fff;
+}
+  
+.main {
+  max-width: 900px;
+  width: 100%;
+  display: block;
+}
+  
+    
